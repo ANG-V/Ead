@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                        EaD<br>Mesa de Ayuda
                 </div>
 
                 <div class="links">
@@ -87,7 +87,7 @@
                     <a href="https://laracasts.com">Aspirantes</a>
                     <a href="https://laravel-news.com">Egresados</a>
                     <a href="https://forge.laravel.com">Docentes</a>
-                    <a href="https://github.com/laravel/laravel">Publico general</a>
+                    <a href="https://github.com/laravel/laravel">Publico General</a>
                 </div>
             </div>
         </div>
